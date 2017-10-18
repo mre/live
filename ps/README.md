@@ -331,3 +331,6 @@ Alternatively, you could play around with a Docker container:
 docker run -it --rm --entrypoint=bash debian/stretch
 ```
 
+
+Here's also some Go code, that does something similar:
+https://github.com/mitchellh/go-ps/blob/master/process_linux.go
