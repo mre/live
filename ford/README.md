@@ -1,3 +1,5 @@
+![Henry](ford.png)
+
 Henry Ford is a busy man.  
 Look at all the things he's doing!
 
