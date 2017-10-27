@@ -1,0 +1,8 @@
+[package]
+authors = ["Matthias Endler <matthias.endler@trivago.com>"]
+name = "trivago"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.3.16"
+rayon = "0.8.2"
